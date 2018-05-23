@@ -1,0 +1,45 @@
+java.lang.NullPointerException
+	at java.io.File.<init>(File.java:277)
+	at br.com.cx2.visual.AcessoUsuario.<init>(AcessoUsuario.java:44)
+	at br.com.cx2.visual.Caixa.<init>(Caixa.java:209)
+	at br.com.cx2.visual.Caixa$15.run(Caixa.java:740)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+	at java.awt.EventQueue.access$400(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:697)
+	at java.awt.EventQueue$3.run(EventQueue.java:691)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++ OUTRAS INFORMACOES +++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+class java.lang.NullPointerException
+   at java.io.File.<init>(File.java:277)
+   at br.com.cx2.visual.AcessoUsuario.<init>(AcessoUsuario.java:44)
+   at br.com.cx2.visual.Caixa.<init>(Caixa.java:209)
+   at br.com.cx2.visual.Caixa$15.run(Caixa.java:740)
+   at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+   at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:744)
+   at java.awt.EventQueue.access$400(EventQueue.java:97)
+   at java.awt.EventQueue$3.run(EventQueue.java:697)
+   at java.awt.EventQueue$3.run(EventQueue.java:691)
+   at java.security.AccessController.doPrivileged(AccessController.java:-2)
+   at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+   at java.awt.EventQueue.dispatchEvent(EventQueue.java:714)
+   at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+   at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+   at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+   at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+   at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+   at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
